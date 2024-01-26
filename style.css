@@ -63,10 +63,10 @@ margin: 0;padding:0;
 
 
 .hero-area {
-  background: url('./supermarket-banner-with-food.jpg') center/cover no-repeat; /* Replace 'bank-hero-image.jpg' with your image */
+  background: url('./image/banner.jpg') center/cover no-repeat; /* Replace 'bank-hero-image.jpg' with your image */
   color: #fff;
   text-align: center;
-  margin-top: 40px;
+  margin-top: 48px;
   padding: 96px;
   padding-bottom: 96px;
   background-color: black;
